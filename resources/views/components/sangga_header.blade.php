@@ -20,9 +20,10 @@
 
         <nav id="navbar" class="navbar order-last order-lg-0">
             <ul>
-                <li><a class="nav-link scrollto " href="{{ route('showroom') }}">Home</a></li>
-                <li><a class="nav-link scrollto" href="{{ route('listvehicle') }}">List Vehicle</a></li>
-                <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+                <li><a class="nav-link scrollto " href="{{ route('home') }}">Home</a></li>
+                <li><a class="nav-link scrollto" href="#testimonials">Testimonials</a></li>
+                <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
+                <li><a class="nav-link scrollto" href="#footer">Contact</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->

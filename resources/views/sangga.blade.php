@@ -1,4 +1,4 @@
-@extends('layouts.showroom')
+@extends('layouts.sangga')
 
 @section('main')
     <!-- ======= Hero Section ======= -->
